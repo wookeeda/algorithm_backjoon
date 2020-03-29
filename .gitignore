@@ -1,2 +1,5 @@
-src/Solution*.java
 out/
+/.idea/
+/target/
+.idea/
+target/
