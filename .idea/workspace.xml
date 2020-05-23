@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19677f7e-a461-4181-b70f-5be6fb697ace" name="Default" comment="git clean up" />
+    <list default="true" id="19677f7e-a461-4181-b70f-5be6fb697ace" name="Default" comment="git clean up">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hackerRank/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -108,9 +112,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_codejam_2020_qualification_round_3">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerRank.Solution" />
+      <module name="solution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,22 +190,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1_1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yanolja.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="yanolja" />
-      <option name="MAIN_CLASS_NAME" value="yanolja.Solution1_1Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -217,16 +219,16 @@
       <item itemvalue="Application.Solution_codejam_2020_qualification_round_1" />
       <item itemvalue="Application.Solution_codejam_2020_qualification_round_2" />
       <item itemvalue="Application.Solution_codejam_2020_qualification_round_3" />
-      <item itemvalue="JUnit.Solution1_1Test" />
       <item itemvalue="JUnit.All in solution" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution_codejam_2020_qualification_round_3" />
         <item itemvalue="Application.Solution_codejam_2020_qualification_round_2" />
         <item itemvalue="Application.Solution_codejam_2020_qualification_round_1" />
         <item itemvalue="JUnit.All in solution" />
-        <item itemvalue="JUnit.Solution1_1Test" />
       </list>
     </recent_temporary>
   </component>
