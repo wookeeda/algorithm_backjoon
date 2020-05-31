@@ -1,6 +1,4 @@
 out/
-/.idea/
-/target/
 .idea/
 target/
-/.idea/
+solution.iml
